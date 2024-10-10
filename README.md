@@ -3,4 +3,4 @@
 - 아
 - 생각보다 쉬운걸?
 
-  `test branch`
+  `test branch 병합`
